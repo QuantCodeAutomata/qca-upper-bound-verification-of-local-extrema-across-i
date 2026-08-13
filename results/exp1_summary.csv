@@ -1,0 +1,11 @@
+family,curve_type,max_extrema,bound,passed
+Flat,forward,1,1,True
+Flat,yield,1,1,True
+Monotone,forward,2,2,True
+Monotone,yield,2,2,True
+NelsonSiegel,forward,3,3,True
+NelsonSiegel,yield,2,3,True
+Bliss,forward,3,4,True
+Bliss,yield,2,4,True
+Svensson,forward,3,5,True
+Svensson,yield,3,5,True
